@@ -1,1 +1,1 @@
-This is my README. Branch 1 is the best branch ever!
+This is my README. I love all my branches equally :)
